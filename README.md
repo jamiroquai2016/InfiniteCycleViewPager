@@ -1,6 +1,6 @@
 InfiniteCycleViewPager
 ======================
-
+[pokefortress](http://www.pokefortress.com/)
 Infinite cycle ViewPager with two-way orientation and interactive effect.
 
 [![DevLight](https://lh4.googleusercontent.com/-9btnRFp_eVo/V5cfwZsBpMI/AAAAAAAAC4E/s4NGoezKhpAVdVofAoez1QWpzK5Na8_cQCL0B/w147-h20-no/devlight-badge.png)](http://devlight.com.ua)
@@ -38,7 +38,7 @@ Or Maven:
   <type>pom</type>
 </dependency>
 ```
-
+[pokefortress](http://www.pokefortress.com/)
 Or Ivy:
 
 ```groovy
@@ -104,7 +104,7 @@ Infinite scroll available when item count more then 2.
 You can set vertical or horizontal infinite cycle ViewPager.
 
 <b>Init</b>
-
+[pokefortress](http://www.pokefortress.com/)
 Check out in code init:
 
 ```java
@@ -164,7 +164,7 @@ Apache 2.0 and MIT. See [LICENSE](https://github.com/DevLight-Mobile-Agency/Infi
 
 Inspiration
 ===========
-
+[pokefortress](http://www.pokefortress.com/)
 |   	|   	|
 |:-:	|:-:	|
 ![](https://lh5.googleusercontent.com/-pUxe24V4ePI/V7sDRnBIN9I/AAAAAAAADEM/0U3G2lB_HmAbNFO6qOLO6yQ02f1jTjAFgCL0B/w520-h390-no/icvp.gif)|![](http://dbwgapw6amg93.cloudfront.net/wp-content/uploads/2016/05/personal-festival-app-beautiful-mobile-ui.jpg?097e9c)
